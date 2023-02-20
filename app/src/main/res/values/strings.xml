@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaxSample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="sdk_key">sMRyqsHzbW5B55p5RLfJTNaXBH1rFzvkU5_LGa_Kerigolzf62Jl6iwzLtMIqn2XRt0tDol1bAc8g0N7C7c51N</string>
+    <string name="ad_unit_mrect_0">7ae63d056b407032</string>
+    <string name="ad_unit_mrect_1">7ae63d056b407032</string>
+</resources>
